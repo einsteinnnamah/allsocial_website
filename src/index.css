@@ -18,23 +18,36 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    font-size: 14px;
+    
 }
 
 .logo img{
-    height: 30px;
+    height: 25px;
 }
 
 .navbar{
     display: flex;
     align-items: center;
+    font-size: 12px;
 }
 
+.active{
+    color: #FE0A74;
+}
 .navbar span{
     padding: 30px;
 }
 
 
+.navbar-btn{
+    padding: 8px 8px 8px 8px;
+    border: 1.5px dashed #FE0A74;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
 .navbar-btn img{
     height: 10px;
 }
+
+
