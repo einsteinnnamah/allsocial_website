@@ -5,13 +5,7 @@
 }
 
 .container{
-    width: 100%;
-    min-height: 100vh;
-    padding-top: 1%;
-    padding-left: 8%;
-    padding-right: 8%;
-    box-sizing: border-box;
-    overflow: hidden;
+padding: 20px 0px 20px 0px;
 }
 
 .header {
@@ -31,13 +25,14 @@
     font-size: 12px;
 }
 
-.active{
-    color: #FE0A74;
-}
 .navbar span{
     padding: 30px;
+    color: #636974;
 }
 
+span{
+    color: #FE0A74;
+}
 
 .navbar-btn{
     padding: 8px 8px 8px 8px;
@@ -50,4 +45,10 @@
     height: 10px;
 }
 
+.section2{
 
+}
+
+.section2-img {
+   
+}
